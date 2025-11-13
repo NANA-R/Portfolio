@@ -1,3 +1,3 @@
 ## portfolio
- This is mine.
 
+This is Honda Rinta's portfolio
