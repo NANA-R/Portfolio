@@ -60,5 +60,9 @@ h1 {
       background-color: whitesmoke;
       text-decoration: none;
     }
+    img {
+      max-width: 1000px;
+      height: auto;
+    }
   }
 }
