@@ -52,6 +52,7 @@ h1 {
     line-height: 30px;
   }
   .work {
+    background-color: #202020;
     a {
       background-color: whitesmoke;
       text-decoration: none;
