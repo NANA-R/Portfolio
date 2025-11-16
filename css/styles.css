@@ -54,6 +54,7 @@ h1 {
   .work {
     background-color: #202020;
     padding: 15px;
+    border-radius: 8px;
     a {
       background-color: whitesmoke;
       text-decoration: none;
