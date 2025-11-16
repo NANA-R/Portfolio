@@ -2,6 +2,8 @@ h1 {
   text-align: center;
   padding-top: 100px;
 }
-.link {
-  background-color: whitesmoke;
+main {
+  a {
+    background-color: whitesmoke;
+  }
 }
