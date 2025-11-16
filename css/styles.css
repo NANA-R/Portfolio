@@ -17,6 +17,9 @@ header {
   top: 0;
   background-color: #1f1f1f;
   width: 100%;
+  a {
+    font-size: large;
+  }
 }
 
 h1 {
