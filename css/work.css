@@ -6,4 +6,8 @@ main {
   a {
     background-color: whitesmoke;
   }
+  img {
+    height: 250px;
+    width: auto;
+  }
 }
