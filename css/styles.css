@@ -19,6 +19,9 @@ header {
   width: 100%;
   a {
     font-size: large;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 0;
   }
 }
 
