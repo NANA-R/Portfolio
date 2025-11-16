@@ -53,6 +53,7 @@ h1 {
   }
   .work {
     background-color: #202020;
+    padding: 15px;
     a {
       background-color: whitesmoke;
       text-decoration: none;
