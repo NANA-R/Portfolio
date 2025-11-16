@@ -51,8 +51,10 @@ h1 {
     padding-left: 20px;
     line-height: 30px;
   }
-  a {
-    background-color: whitesmoke;
-    text-decoration: none;
+  .work {
+    a {
+      background-color: whitesmoke;
+      text-decoration: none;
+    }
   }
 }
