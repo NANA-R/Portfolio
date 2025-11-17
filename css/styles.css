@@ -30,6 +30,8 @@ h1 {
 }
 
 .box {
+  display: grid;
+  place-items: center;
   background-color: #303030;
   padding: 20px;
   padding-top: 5px;
